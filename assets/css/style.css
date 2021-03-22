@@ -1592,6 +1592,11 @@ section {
   border-color: #ff5f01;
 }
 
+.custom_btn {
+    border-color: #ff5f01;
+    padding: 20px 15px;
+}
+
 .contact .php-email-form input, .contact .toto input {
   padding: 20px 15px;
 }
